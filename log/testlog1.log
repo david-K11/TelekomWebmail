@@ -1,0 +1,35 @@
+2020-09-15 01:51:03,545 [main] INFO Telekom - URL is opened
+2020-09-15 01:51:03,650 [main] INFO Telekom - Entered username
+2020-09-15 01:51:03,729 [main] INFO Telekom - Entered password
+2020-09-15 01:51:04,167 [main] INFO Telekom - Login test passed
+2020-09-15 01:51:09,414 [main] INFO Telekom - user name provided
+2020-09-15 01:51:09,476 [main] INFO Telekom - password provided
+2020-09-15 01:51:09,885 [main] INFO Telekom - Login test passed
+2020-09-15 01:51:09,953 [main] INFO Telekom - user name provided
+2020-09-15 01:51:10,020 [main] INFO Telekom - password provided
+2020-09-15 01:51:10,454 [main] INFO Telekom - Login test passed
+2020-09-15 01:51:10,509 [main] INFO Telekom - user name provided
+2020-09-15 01:51:10,561 [main] INFO Telekom - password provided
+2020-09-15 01:51:10,980 [main] INFO Telekom - Login test passed
+2020-09-15 01:51:11,039 [main] INFO Telekom - user name provided
+2020-09-15 01:51:11,112 [main] INFO Telekom - password provided
+2020-09-15 01:51:11,536 [main] INFO Telekom - Login test passed
+2020-09-15 01:51:11,594 [main] INFO Telekom - user name provided
+2020-09-15 01:51:11,652 [main] INFO Telekom - password provided
+2020-09-15 01:51:12,063 [main] INFO Telekom - Login test passed
+2020-09-15 01:51:16,931 [main] INFO Telekom - Clicked on link:Upatstva
+2020-09-15 01:51:18,986 [main] INFO Telekom - Link is working
+2020-09-15 01:51:19,144 [main] INFO Telekom - Clicked on link:Nagoduvanja
+2020-09-15 01:51:21,826 [main] INFO Telekom - Link is working
+2020-09-15 01:51:21,980 [main] INFO Telekom - Clicked on link:Kreiraj
+2020-09-15 01:51:24,046 [main] INFO Telekom - Link is working
+2020-09-15 01:51:29,002 [main] INFO Telekom - Clicked on link
+2020-09-15 01:51:31,053 [main] INFO Telekom - Link is working
+2020-09-15 01:51:31,140 [main] INFO Telekom - Name and Surname are entered
+2020-09-15 01:51:31,228 [main] INFO Telekom - Adress is entered
+2020-09-15 01:51:31,344 [main] INFO Telekom - City is entered
+2020-09-15 01:51:31,415 [main] INFO Telekom - Phone number is entered
+2020-09-15 01:51:31,497 [main] INFO Telekom - Username is entered
+2020-09-15 01:51:31,574 [main] INFO Telekom - Password is entered
+2020-09-15 01:51:31,681 [main] INFO Telekom - Password is confirmed
+2020-09-15 01:51:31,770 [main] INFO Telekom - I Agree is checked

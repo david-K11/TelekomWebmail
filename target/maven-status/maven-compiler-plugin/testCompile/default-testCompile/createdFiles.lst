@@ -1,0 +1,10 @@
+com\webmail\testCases\TC_KreirajEadresa_004.class
+com\webmail\testCases\TC_LoginDDT_002.class
+com\webmail\pageObjects\KreirajEadresa.class
+com\webmail\testCases\TC_LinkoviTest_003.class
+com\webmail\utilities\XLUtils.class
+com\webmail\testCases\BaseClass.class
+com\webmail\utilities\ReadConfig.class
+com\webmail\pageObjects\LoginPage.class
+com\webmail\testCases\TC_LoginTest_001.class
+com\webmail\utilities\Reporting.class
